@@ -1,4 +1,4 @@
-package com.bidesi.practice;
+package com.bidesi.code;
 
 import java.util.ArrayList;
 import java.util.List;
