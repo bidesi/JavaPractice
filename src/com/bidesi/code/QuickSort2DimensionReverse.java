@@ -1,4 +1,4 @@
-package com.bidesi.practice;
+package com.bidesi.code;
 
 public class QuickSort2DimensionReverse {
 
